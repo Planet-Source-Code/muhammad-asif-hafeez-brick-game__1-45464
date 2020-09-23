@@ -1,0 +1,414 @@
+[Root]
+Most Recent Package=BRICK GAME ver 1.0
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+D:\VB Programs\Brick Game\snd1.wav=
+D:\VB Programs\Brick Game\snd2.wav=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\VB Programs\Brick Game\BRICK_GAME.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\VB Programs\Brick Game\snd1.wav=Yes
+D:\VB Programs\Brick Game\snd2.wav=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\VB Programs\Brick Game\BRICK_GAME.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\VB Programs\Brick Game\snd1.wav=$(AppPath)
+D:\VB Programs\Brick Game\snd2.wav=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\VB Programs\Brick Game\BRICK_GAME.exe=No
+D:\VB Programs\Brick Game\snd1.wav=No
+D:\VB Programs\Brick Game\snd2.wav=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=BRICK_GAME ver 1.0
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=BRICK_GAME ver 1.0
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|BRICK_GAME ver 1.0]
+Icon1=BRICK_GAME.exe
+Title1=BRICK_GAME ver 1.0
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=D:\Package
+ProjectFolder=D:\VB Programs\Brick Game
+ServerSideCab=
+File1=D:\Package\setup.exe
+File2=D:\Package\Setup.Lst
+File3=D:\Package\BRICK_GAME.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Package
+
+[Package|Standard Setup Package|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package|Files Found]
+
+[Package|Standard Setup Package|Files Released]
+
+[Package|Standard Setup Package|Missing Dependency Information]
+
+[Package|Standard Setup Package|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package|Files Added]
+d:\vb programs\brick game\snd1.wav=
+d:\vb programs\brick game\snd2.wav=
+D:\VB Programs\Brick Game\snd3.wav=
+D:\VB Programs\Brick Game\snd4.wav=
+
+[Package|Standard Setup Package|Files Removed]
+
+[Package|Standard Setup Package|Files In Project]
+D:\VB Programs\Brick Game\BRICK_GAME.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\VB Programs\Brick Game\snd1.wav=Yes
+D:\VB Programs\Brick Game\snd2.wav=Yes
+D:\VB Programs\Brick Game\snd3.wav=Yes
+D:\VB Programs\Brick Game\snd4.wav=Yes
+
+[Package|Standard Setup Package|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package|Install Locations]
+D:\VB Programs\Brick Game\BRICK_GAME.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\VB Programs\Brick Game\snd1.wav=$(AppPath)
+D:\VB Programs\Brick Game\snd2.wav=$(AppPath)
+D:\VB Programs\Brick Game\snd3.wav=$(AppPath)
+D:\VB Programs\Brick Game\snd4.wav=$(AppPath)
+
+[Package|Standard Setup Package|Configure Shared Files]
+Applicable=Yes
+D:\VB Programs\Brick Game\BRICK_GAME.exe=No
+D:\VB Programs\Brick Game\snd1.wav=No
+D:\VB Programs\Brick Game\snd2.wav=No
+D:\VB Programs\Brick Game\snd3.wav=No
+D:\VB Programs\Brick Game\snd4.wav=No
+
+[Package|Standard Setup Package|Distribution]
+Type=single
+Size=720 KB
+Title=BRICK_GAME ver 1.0
+
+[Package|Standard Setup Package|IconGroups]
+Group0=BRICK_GAME ver 1.0
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package|BRICK_GAME ver 1.0]
+Icon1=BRICK_GAME.exe
+Title1=BRICK_GAME ver 1.0
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package|Package]
+PackageFolder=D:\Package
+ProjectFolder=D:\VB Programs\Brick Game
+ServerSideCab=
+File1=D:\Package\setup.exe
+File2=D:\Package\Setup.Lst
+File3=D:\Package\BRICK_GAME.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|BRICK_GAME Installation|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Package
+
+[Package|BRICK_GAME Installation|Configure DAO ISAMs]
+Applicable=No
+
+[Package|BRICK_GAME Installation|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|BRICK_GAME Installation|Files Found]
+
+[Package|BRICK_GAME Installation|Files Released]
+
+[Package|BRICK_GAME Installation|Missing Dependency Information]
+
+[Package|BRICK_GAME Installation|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=
+
+[Package|BRICK_GAME Installation|Files Added]
+D:\VB Programs\Brick Game\snd1.wav=
+D:\VB Programs\Brick Game\snd2.wav=
+D:\VB Programs\Brick Game\snd3.wav=
+D:\VB Programs\Brick Game\snd4.wav=
+
+[Package|BRICK_GAME Installation|Files Removed]
+
+[Package|BRICK_GAME Installation|Files In Project]
+D:\VB Programs\Brick Game\BRICK_GAME.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\VB Programs\Brick Game\snd1.wav=Yes
+D:\VB Programs\Brick Game\snd2.wav=Yes
+D:\VB Programs\Brick Game\snd3.wav=Yes
+D:\VB Programs\Brick Game\snd4.wav=Yes
+
+[Package|BRICK_GAME Installation|Configure Registry Files]
+Applicable=No
+
+[Package|BRICK_GAME Installation|Configure Remote Servers]
+Applicable=No
+
+[Package|BRICK_GAME Installation|Install Locations]
+D:\VB Programs\Brick Game\BRICK_GAME.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\VB Programs\Brick Game\snd1.wav=$(AppPath)
+D:\VB Programs\Brick Game\snd2.wav=$(AppPath)
+D:\VB Programs\Brick Game\snd3.wav=$(AppPath)
+D:\VB Programs\Brick Game\snd4.wav=$(AppPath)
+
+[Package|BRICK_GAME Installation|Configure Shared Files]
+Applicable=Yes
+D:\VB Programs\Brick Game\BRICK_GAME.exe=No
+D:\VB Programs\Brick Game\snd1.wav=No
+D:\VB Programs\Brick Game\snd2.wav=No
+D:\VB Programs\Brick Game\snd3.wav=No
+D:\VB Programs\Brick Game\snd4.wav=No
+
+[Package|BRICK_GAME Installation|Distribution]
+Type=single
+Size=
+Title=BRICK_GAME ver 1.0
+
+[Package|BRICK_GAME Installation|IconGroups]
+Group0=BRICK_GAME ver 1.0
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|BRICK_GAME Installation|BRICK_GAME ver 1.0]
+Icon1=BRICK_GAME.exe
+Title1=BRICK_GAME ver 1.0
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|BRICK_GAME Installation|Package]
+PackageFolder=D:\Package
+ProjectFolder=D:\VB Programs\Brick Game
+ServerSideCab=
+File1=D:\Package\setup.exe
+File2=D:\Package\Setup.Lst
+File3=D:\Package\BRICK_GAME.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|BRICK GAME ver 1.0|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Package
+
+[Package|BRICK GAME ver 1.0|Configure DAO ISAMs]
+Applicable=No
+
+[Package|BRICK GAME ver 1.0|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|BRICK GAME ver 1.0|Files Found]
+
+[Package|BRICK GAME ver 1.0|Files Released]
+
+[Package|BRICK GAME ver 1.0|Missing Dependency Information]
+
+[Package|BRICK GAME ver 1.0|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=
+
+[Package|BRICK GAME ver 1.0|Files Added]
+d:\vb programs\brick game\snd1.wav=
+d:\vb programs\brick game\snd2.wav=
+d:\vb programs\brick game\snd3.wav=
+d:\vb programs\brick game\snd4.wav=
+
+[Package|BRICK GAME ver 1.0|Files Removed]
+
+[Package|BRICK GAME ver 1.0|Files In Project]
+D:\VB Programs\Brick Game\BRICK_GAME.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\VB Programs\Brick Game\snd1.wav=Yes
+D:\VB Programs\Brick Game\snd2.wav=Yes
+D:\VB Programs\Brick Game\snd3.wav=Yes
+D:\VB Programs\Brick Game\snd4.wav=Yes
+
+[Package|BRICK GAME ver 1.0|Configure Registry Files]
+Applicable=No
+
+[Package|BRICK GAME ver 1.0|Configure Remote Servers]
+Applicable=No
+
+[Package|BRICK GAME ver 1.0|Install Locations]
+D:\VB Programs\Brick Game\BRICK_GAME.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\VB Programs\Brick Game\snd1.wav=$(AppPath)
+D:\VB Programs\Brick Game\snd2.wav=$(AppPath)
+D:\VB Programs\Brick Game\snd3.wav=$(AppPath)
+D:\VB Programs\Brick Game\snd4.wav=$(AppPath)
+
+[Package|BRICK GAME ver 1.0|Configure Shared Files]
+Applicable=Yes
+D:\VB Programs\Brick Game\BRICK_GAME.exe=No
+D:\VB Programs\Brick Game\snd1.wav=No
+D:\VB Programs\Brick Game\snd2.wav=No
+D:\VB Programs\Brick Game\snd3.wav=No
+D:\VB Programs\Brick Game\snd4.wav=No
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+
+[Package|BRICK GAME ver 1.0|Distribution]
+Type=single
+Size=720 KB
+Title=BRICK_GAME ver 1.0
+
+[Package|BRICK GAME ver 1.0|Package]
+PackageFolder=D:\Package
+ProjectFolder=D:\VB Programs\Brick Game
+ServerSideCab=
+File1=D:\Package\setup.exe
+File2=D:\Package\Setup.Lst
+File3=D:\Package\BRICK_GAME.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|BRICK GAME ver 1.0|IconGroups]
+Group0=BRICK_GAME ver 1.0
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|BRICK GAME ver 1.0|BRICK_GAME ver 1.0]
+Icon1=BRICK_GAME.exe
+Title1=BRICK_GAME ver 1.0
+StartIn1=$(AppPath)
+Key1=Icon1
